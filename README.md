@@ -40,8 +40,8 @@ design.
 ## Screenshots
 
 <p align="center">
-  <img src="assets/assets\demo - frame at 1m22s.jpg" width="45%" />
-  <img src="assets/assets\demo - frame at 1m22s.jpg" width="45%" />
+  <img src="assets/demo - frame at 1m22s.jpg" width="45%" />
+  <img src="assets/demo - frame at 1m22s.jpg" width="45%" />
 </p>
 
 ---
