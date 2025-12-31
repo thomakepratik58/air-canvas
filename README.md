@@ -36,7 +36,15 @@ design.
 </p>
 
 ---
+---
+## Screenshots
 
+<p align="center">
+  <img src="assets/assets\demo - frame at 1m22s.jpg" width="45%" />
+  <img src="assets/assets\demo - frame at 1m22s.jpg" width="45%" />
+</p>
+
+---
 ## System Architecture
 
 The application follows a real-time processing pipeline with clearly separated modules:
