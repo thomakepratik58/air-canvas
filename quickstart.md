@@ -215,5 +215,3 @@ python main.py
 Have fun creating! 
 
 ---
-
-**Need more help?** Check `TROUBLESHOOTING.md` for detailed solutions.
