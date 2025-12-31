@@ -41,7 +41,7 @@ design.
 
 <p align="center">
   <img src="assets/demo - frame at 1m22s.jpg" width="45%" />
-  <img src="assets/demo - frame at 1m22s.jpg" width="45%" />
+  <img src="assets/clideo_editor_ffc1b6550d374f5cb00b5d0a448d136c - frame at 0m18s.jpg" width="45%" />
 </p>
 
 ---
